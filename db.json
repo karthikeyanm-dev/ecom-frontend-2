@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "productId": 1,
+      "name": "iPhone 14",
+      "brand": "Apple",
+      "price": 79999
+    },
+    {
+      "productId": 2,
+      "name": "Galaxy S23",
+      "brand": "Samsung",
+      "price": 74999
+    },
+    {
+      "productId": 3,
+      "name": "Pixel 8",
+      "brand": "Google",
+      "price": 68999
+    },
+    {
+      "productId": 4,
+      "name": "OnePlus 11",
+      "brand": "OnePlus",
+      "price": 61999
+    },
+    {
+      "productId": 5,
+      "name": "Redmi Note 13",
+      "brand": "Xiaomi",
+      "price": 18999
+    },
+    {
+      "productId": 6,
+      "name": "Realme GT Neo",
+      "brand": "Realme",
+      "price": 25999
+    },
+    {
+      "productId": 7,
+      "name": "Vivo V29",
+      "brand": "Vivo",
+      "price": 32999
+    },
+    {
+      "productId": 8,
+      "name": "Oppo Reno 10",
+      "brand": "Oppo",
+      "price": 34999
+    },
+    {
+      "productId": 9,
+      "name": "Oppo Reno 10",
+      "brand": "Oppo",
+      "price": 34999
+    },
+    {
+      "productId": 10,
+      "name": "Oppo Reno 10",
+      "brand": "Oppo",
+      "price": 34999
+    }
+  ]
+}
