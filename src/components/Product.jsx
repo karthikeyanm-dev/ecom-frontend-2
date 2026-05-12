@@ -15,7 +15,7 @@ const Product = () => {
                     `http://localhost:8080/api/products/${id}`
                 );
                 console.log(res.data)
-                setProduct(res.data["product"]);
+                setProduct(res.data);
             } catch (error) {
                 console.error("Error fetching product:", error);
             } finally {
